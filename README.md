@@ -3,9 +3,12 @@
 
 **`Desenvolvedora FullStack`**
 
-Estudante de Ciência da Computação na PUC Minas - Com foco em desenvolvimento de software e tecnologias web e mobile. Tenho experiência com React, React Native, C#, .NET, SQL, além de sólidos conhecimentos em HTML, CSS e JavaScript. Possuo familiaridade com metodologias ágeis como Scrum e no uso de ferramentas como Figma, Git/GitHub, e Monday.com para prototipação, versionamento e organização de projetos.
+Estudante de Ciência da Computação na PUC Minas, com foco em desenvolvimento de software e tecnologias web e mobile. Tenho experiência com React, React Native, C#, .NET, SQL e sólidos conhecimentos em HTML, CSS e JavaScript.
 
-Meu perfil combina curiosidade técnica, facilidade de aprendizado e um olhar voltado à usabilidade e acessibilidade. Gosto de atuar em projetos que exigem organização, pensamento lógico e aplicação prática de conceitos da engenharia de software. 
+Atuo com metodologias ágeis como Scrum e utilizo ferramentas como Figma, Git/GitHub e Monday.com para garantir prototipação eficiente, versionamento confiável e organização de projetos.
+
+Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento para usabilidade e acessibilidade, sempre buscando desenvolver soluções práticas e bem estruturadas. Tenho interesse em participar de projetos que unam organização, pensamento lógico e impacto real para os usuários.
+
 
 <p align="left">
     <a href="https://github.com/AnaBeatrizVictorio?tab=repositories&sort=stargazers">
