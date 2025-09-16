@@ -13,12 +13,10 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
   <a href="https://github.com/AnaBeatrizVictorio?tab=repositories&sort=stargazers">
     <img alt="Total de estrelas" title="Total de estrelas GitHub"
       src="https://custom-icon-badges.demolab.com/github/stars/AnaBeatrizVictorio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a>
-  <a href="https://github.com/AnaBeatrizVictorio?tab=followers">
+  <a href="https://github.com/AnaBeatrizVictorio?tab=followers"> 
+    <img alt="Seguidores" 
       title="Me siga no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/followers/AnaBeatrizVictorio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a>
-  <a href="https://github.com/AnaBeatrizVictorio?tab=followers">
-    <img alt="Seguidores" title="Total deeguidores"
-      src="https://img.shields.io/github/followers/AnaBeatrizVictorio?label=Total%20de%20Seguidores&style=for-the-badge&color=236ad3&logo=github" /> </a>
 </p>
 
 
