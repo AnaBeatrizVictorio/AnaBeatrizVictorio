@@ -1,4 +1,3 @@
-
 # 👩🏻‍💻 Ana Beatriz Victorio
 
 **`Desenvolvedora FullStack`**
@@ -18,6 +17,9 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
     <img alt="Seguidores" 
       title="Me siga no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/followers/AnaBeatrizVictorio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a>
+  <a href="https://github.com/AnaBeatrizVictorio?tab=followers">
+    <img alt="Contador de seguidores" title="Total de seguidores"
+      src="https://img.shields.io/github/followers/AnaBeatrizVictorio?label=Total%20de%20Seguidores&style=for-the-badge&color=236ad3&logo=github" /> </a>
 </p>
 
 
@@ -46,6 +48,5 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
     src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizVictorio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> 
   <img align="left" 
     alt="Linguagens mais usadas"
-    height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizVictorio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /> </p>
-
-
+    height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizVictorio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /> 
+</p>
