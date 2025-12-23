@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Estudante de Ciência da Computação na PUC Minas, com foco em desenvolvimento de software e tecnologias web e mobile. Tenho experiência com React, React Native, C#, .NET, SQL e sólidos conhecimentos em HTML, CSS e JavaScript.
+Desenvolvedora de software e de tecnologias web e mobile. Tenho experiência com React, React Native, C#, .NET, SQL e sólidos conhecimentos em HTML, CSS e JavaScript.
 
 Atuo com metodologias ágeis como Scrum e utilizo ferramentas como Figma, Git/GitHub e Monday.com para garantir prototipação eficiente, versionamento confiável e organização de projetos.
 
