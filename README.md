@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ana Beatriz Victorio
 
-**`Desenvolvedora FullStack`**
+**Desenvolvedora FullStack**
 
 Desenvolvedora de software e de tecnologias web e mobile. Tenho experiência com React, React Native, C#, .NET, SQL e sólidos conhecimentos em HTML, CSS e JavaScript.
 
@@ -13,12 +13,11 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
 <p align="left">
   <a href="https://github.com/AnaBeatrizVictorio?tab=repositories&sort=stargazers">
     <img alt="Total de estrelas" title="Total de estrelas GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/AnaBeatrizVictorio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> 
+      src="https://custom-icon-badges.demolab.com/github/stars/AnaBeatrizVictorio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
   </a>
-  <a href="https://github.com/AnaBeatrizVictorio?tab=followers"> 
-    <img alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/AnaBeatrizVictorio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> 
+  <a href="https://github.com/AnaBeatrizVictorio?tab=followers">
+    <img alt="Seguidores" title="Me siga no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/AnaBeatrizVictorio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
   </a>
 </p>
 
@@ -42,8 +41,6 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
 ---
 
 ### 📊 Estatísticas
-
-
 
 <p align="center">
   <img 
