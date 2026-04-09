@@ -44,24 +44,9 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
 
 <p align="center">
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizVictorio&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnaBeatrizVictorio&theme=tokyonight" 
   />
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizVictorio&layout=compact&theme=tokyonight&cache_seconds=1800" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaBeatrizVictorio&theme=tokyonight" 
   />
 </p>
-
-
----
-
-## 🔥 Streak de Contribuições
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=AnaBeatrizVictorio&theme=tokyonight&hide_border=true" 
-  />
-</p>
-
----
