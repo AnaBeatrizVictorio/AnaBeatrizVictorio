@@ -40,18 +40,16 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
 
 ---
 
-
 ### 📊 Estatísticas
 
 <p align="center">
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizVictorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnaBeatrizVictorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
   />
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizVictorio&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnaBeatrizVictorio&layout=compact&theme=tokyonight" 
   />
 </p>
- 
 
