@@ -58,6 +58,6 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnaBeatrizVictorio&theme=github-dark&bg_color=0d1117&color=39d353&line=39d353&point=ffffff" 
+    src="https://github-contribution-grid.vercel.app/api?username=AnaBeatrizVictorio&theme=github-dark" 
   />
 </p>
