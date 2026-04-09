@@ -44,10 +44,10 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
 <p align="center">
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizVictorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnaBeatrizVictorio&theme=tokyonight" 
   />
   <img 
     height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnaBeatrizVictorio&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaBeatrizVictorio&theme=tokyonight" 
   />
 </p>
