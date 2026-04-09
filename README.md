@@ -56,9 +56,8 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
 
 ### 📅 Contribuições
 
-
-<p align="center" style="background-color:#000000; padding: 10px; border-radius: 10px;">
+<p align="center">
   <img 
-    src="https://ghchart.rshah.org/AnaBeatrizVictorio" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnaBeatrizVictorio&theme=github-dark&bg_color=0d1117&color=39d353&line=39d353&point=ffffff" 
   />
 </p>
