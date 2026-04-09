@@ -40,7 +40,6 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
 
 ---
 
-### 📊 Estatísticas
 
 ### 📊 Estatísticas
 
