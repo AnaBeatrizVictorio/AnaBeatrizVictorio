@@ -58,6 +58,6 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
 
 <p align="center">
   <img 
-    src="https://ghchart.rshah.org/30/AnaBeatrizVictorio" 
+    src="https://ghchart.rshah.org/0e4429/30/AnaBeatrizVictorio" 
   />
 </p>
