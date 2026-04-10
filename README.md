@@ -46,17 +46,16 @@ Meu perfil combina curiosidade técnica, aprendizado rápido e um olhar atento p
     height="180em"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnaBeatrizVictorio&theme=tokyonight" 
   />
-</p>
-
-<h3 align="center">📊 Estatísticas de Linguagens</h3>
-
-<p align="center">
+  
   <img 
-    height="180em"
+    height="160em"
+    style="margin-top: -20px;"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaBeatrizVictorio&theme=tokyonight" 
   />
 </p>
+
 ---
+
 ### 📅 Contribuições
 
 <p align="center" style="background-color:#0d1117; padding: 10px; border-radius: 10px;">
